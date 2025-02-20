@@ -1,9 +1,11 @@
 
 
-export default function App() {
+function Profile() {
   return (
     <div>
       
     </div>
   )
 }
+
+export default Profile

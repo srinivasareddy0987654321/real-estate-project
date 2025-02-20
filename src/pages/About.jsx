@@ -1,9 +1,11 @@
 
 
-export default function App() {
+function About() {
   return (
     <div>
       
     </div>
   )
 }
+
+export default About
