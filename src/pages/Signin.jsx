@@ -3,7 +3,7 @@
 function Signin() {
   return (
     <div>
-      Signin
+      Sign in
     </div>
   )
 }

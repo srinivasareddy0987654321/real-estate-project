@@ -3,7 +3,7 @@
 function Signout() {
   return (
     <div>
-      signout
+      sign out
     </div>
   )
 }
